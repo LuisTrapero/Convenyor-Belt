@@ -1,2 +1,2 @@
-### <B>Cinta transportadora</B>
+# Cinta transportadora
 Este es un proyecto Open Source
