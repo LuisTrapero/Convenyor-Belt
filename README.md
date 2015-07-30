@@ -1,2 +1,2 @@
-<B>Cinta transportador</B>
+# <B>Cinta transportadora</B>
 Este es un proyecto Open Source
