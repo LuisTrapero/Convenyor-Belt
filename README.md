@@ -1,4 +1,4 @@
-# Belt conveyor
+# Convenyor Belt
 In this repository you will find all the designs and instructions needed to make your own conveyor belt. 
 
 This project is still in a development phase so keep in mind that any file could change.
